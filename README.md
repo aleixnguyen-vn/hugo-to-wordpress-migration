@@ -6,15 +6,17 @@
 ![AI Assisted](https://img.shields.io/badge/Built%20with-AI%20Assistance-purple)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
-# 🚀 Case Study: Migrating from Hugo to WordPress with Custom Theme, AJAX Search, Star Rating, Dynamic Sorting & Paginatio
+# 🚀 Case Study: Demo migrating from Hugo to WordPress with Custom Theme, AJAX Search, Star Rating, Dynamic Sorting & Pagination
 
 ## 🧭 Background
 
-This site originally started as a Hugo static site hosted on Cloudflare Pages. It was built to share Assetto Corsa mods, and featured clean content delivery, fast page loads, and simple Markdown-based content management.
+According to the author, this site originally started as a Hugo static site hosted on Cloudflare Pages. It was built to share Assetto Corsa mods, and featured clean content delivery, fast page loads, and simple Markdown-based content management.
 
-The site hosted nearly 1,000 mod posts, and users often browsed multiple pages rapidly — resulting in high simultaneous pageview traffic. This was a real production system aimed at monetization via Google AdSense, with organic traffic spikes driven by search and mod discovery behavior.
+The site hosted nearly 1,000 mod posts, and users often browsed multiple pages rapidly - resulting in high simultaneous pageview traffic. This was a real production system, the owner aimed for monetization via Google AdSense, with organic traffic spikes driven by search and mod discovery behavior.
 
 While Hugo handled static delivery well, the lack of dynamic features like search and filtering began to show as limitations.
+
+> This repo focuses solely on the technical side – site architecture, deployment, and performance tuning for high-read static content.
 
 ## 🎯 Objectives
 - Migrate all legacy Hugo posts to WordPress while preserving full frontmatter metadata (e.g. title, date, tags, thumbnails), adapting them into appropriate ACF fields for structured content editing
