@@ -46,7 +46,7 @@ While Hugo handled static delivery well, the lack of dynamic features like searc
 
 - Perfect fit for a low-maintenance, high-speed site in its early phase, testing phase
 
-## 🔄 Why I Moved to WordPress
+## 🔄 Why WordPress
 
 - Managing content purely in Markdown became a serious bottleneck as the site scaled past 500–600 posts — especially for a solo maintainer
 
@@ -269,9 +269,9 @@ This project proved that you don’t need a front-end or PHP background to build
 
 ## ✅ Summary
 
-This case study walks through a real-world migration from a static Hugo site to a fully dynamic, AdSense-ready WordPress system — built entirely by one person without prior experience in PHP, WordPress, or AJAX.
+This case study walks through a real-world migration from a static Hugo site to a fully dynamic, AdSense-ready WordPress system - built entirely by one person without prior experience in PHP, WordPress, or AJAX.
 
-What started as a markdown-based mod-sharing site with 900+ posts soon became unmanageable. I rebuilt everything — the theme, content structure, dynamic features — by reverse-engineering, debugging, and leveraging AI as a code assistant, not a shortcut.
+It started as a markdown-based mod-sharing site by an enthusiasis simracer with 900+ posts soon became unmanageable. I was chosen by him, to rebuilt everything — the theme, content structure, dynamic features — by reverse-engineering, debugging, and leveraging AI as a code assistant, not a shortcut.
 
 The end result:
 
@@ -286,8 +286,6 @@ The end result:
 - All handcrafted without heavy plugin reliance
 
 Even small UX polish (like scroll-to-top on pagination) were planned, though postponed due to AWS account suspension — showing that this wasn’t just a dev exercise, but a system meant for **real deployment and traffic.**
-
-“I didn’t clone a theme. I built one — with search, rating, filtering — as an infrastructure guy who simply needed a better frontend.”
 
 ---
 
